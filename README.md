@@ -19,15 +19,6 @@ Sou um **Engenheiro de Software e Desenvolvedor Front-End Pleno** baseado no Rio
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Erikcht&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erikcht&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### 📌 Projetos em Destaque
 
 - **deolhonocongresso**: Sustentação e evolução de arquitetura moderna em React, Vite, TypeScript, Shadcn-ui e Tailwind CSS.
